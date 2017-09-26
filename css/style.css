@@ -7,7 +7,7 @@ h1 {
 	font-weight: 400;
 	margin: 0;
 	text-transform: uppercase
-	
+
 }
 
 h2 { font-family: "Raleway", sans-serif;
@@ -19,7 +19,7 @@ text-transform: uppercase
 }
 
 p {
-	font-family: "Droid Serif", serif;
+	font-family: "Raleway", serif;
 }
 
 body{
@@ -46,7 +46,7 @@ a {
 	color: #FFFFFF;
 	text-transform: uppercase
 
-	
+
 }
 
 main {
@@ -81,19 +81,10 @@ footer {
 
 }
 
-.clearfix:after {
-  visibility: hidden;
-  display: block;
-  content: " ";
-  clear: both;
-  height: 0;
-  font-size: 0;
+
 }
 
-.name {
-color: #F15B31;
-font-weight: 700;
-}
+
 
 nav a {
 	border-bottom: 2px solid transparent;
